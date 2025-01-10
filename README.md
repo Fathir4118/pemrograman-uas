@@ -14,6 +14,9 @@ Berfungsi untuk merepresentasikan data mahasiswa.
 Attributes:
 
 `nama` = Nama Asli Peserta
+
 `nim` = Nomor Induk Mahasiswa (NIM)
+
 `phone` = Nomor Telphone Peserta
+
 `email` = Email Peserta
